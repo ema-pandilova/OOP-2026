@@ -1,0 +1,8 @@
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/OOP2026.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad1.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad2.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad3.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad4.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad5.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/rebuild_cache.dir
