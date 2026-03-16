@@ -226,6 +226,68 @@ build zad5: CXX_EXECUTABLE_LINKER__zad5_Debug CMakeFiles/zad5.dir/aud1/zad5.cpp.
   TARGET_FILE = zad5
   TARGET_PDB = zad5.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target zad31
+
+
+#############################################
+# Order-only phony target for zad31
+
+build cmake_object_order_depends_target_zad31: phony || .
+
+build CMakeFiles/zad31.dir/aud3/zad1.cpp.o: CXX_COMPILER__zad31_unscanned_Debug /home/ema/CLionProjects/OOP2026/aud3/zad1.cpp || cmake_object_order_depends_target_zad31
+  DEP_FILE = CMakeFiles/zad31.dir/aud3/zad1.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad31.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad31.dir/aud3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad31
+
+
+#############################################
+# Link the executable zad31
+
+build zad31: CXX_EXECUTABLE_LINKER__zad31_Debug CMakeFiles/zad31.dir/aud3/zad1.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad31.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad31
+  TARGET_PDB = zad31.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target zad32
+
+
+#############################################
+# Order-only phony target for zad32
+
+build cmake_object_order_depends_target_zad32: phony || .
+
+build CMakeFiles/zad32.dir/aud3/zad2.cpp.o: CXX_COMPILER__zad32_unscanned_Debug /home/ema/CLionProjects/OOP2026/aud3/zad2.cpp || cmake_object_order_depends_target_zad32
+  DEP_FILE = CMakeFiles/zad32.dir/aud3/zad2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/zad32.dir
+  OBJECT_FILE_DIR = CMakeFiles/zad32.dir/aud3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target zad32
+
+
+#############################################
+# Link the executable zad32
+
+build zad32: CXX_EXECUTABLE_LINKER__zad32_Debug CMakeFiles/zad32.dir/aud3/zad2.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/zad32.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = zad32
+  TARGET_PDB = zad32.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -260,7 +322,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/ema/CLionProjects/OOP2026/cmake-build-debug
 
-build all: phony OOP2026 zad1 zad2 zad3 zad4 zad5
+build all: phony OOP2026 zad1 zad2 zad3 zad4 zad5 zad31 zad32
 
 # =============================================================================
 # Built-in targets

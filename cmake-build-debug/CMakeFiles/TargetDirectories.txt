@@ -4,5 +4,7 @@
 /home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad3.dir
 /home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad4.dir
 /home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad5.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad31.dir
+/home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/zad32.dir
 /home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/ema/CLionProjects/OOP2026/cmake-build-debug/CMakeFiles/rebuild_cache.dir
