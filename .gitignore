@@ -1,0 +1,8 @@
+# CLion / JetBrains
+.idea/
+
+# CMake build
+cmake-build-debug/
+
+# local test file
+main.cpp
