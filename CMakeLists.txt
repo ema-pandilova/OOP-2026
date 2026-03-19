@@ -12,3 +12,7 @@ add_executable(zad5 aud1/zad5.cpp)
 
 add_executable(zad31 aud3/zad1.cpp)
 add_executable(zad32 aud3/zad2.cpp)
+
+add_executable(zad41 aud4/zad1.cpp)
+add_executable(zad42 aud4/zad2.cpp)
+add_executable(zad43 aud4/zad3.cpp)
