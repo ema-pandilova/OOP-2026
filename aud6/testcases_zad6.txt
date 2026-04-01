@@ -1,0 +1,147 @@
+Test case 1:
+Input:
+0
+Expected output:
+TESTING BOOK CONSTRUCTOR
+TEST PASSED
+
+Test case 2:
+Input:
+1
+Expected output:
+TESTING BOOK print()
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+TEST PASSED
+
+Test case 3:
+Input:
+2
+Expected output:
+TESTING BOOK increasePrice
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+===== INCREASE =====
+777551 - Object-oriented programming academic 2500
+777552 - Discrete Mathematics academic 2100
+777553 - Crime and punishment roman 1100
+TEST PASSED
+
+Test case 4:
+Input:
+3
+Expected output:
+TESTING BOOKSTORE CONSTRUCTOR
+The Book Cellar
+TEST PASSED
+
+Test case 5:
+Input:
+4
+Expected output:
+TESTING BOOKSTORE addBook() and print()
+The Book Cellar
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+TEST PASSED
+
+Test case 6:
+Input:
+5
+Expected output:
+TESTING BOOKSTORE OPERATOR addBook() and print()
+The Book Cellar
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+TEST PASSED
+
+Test case 7:
+Input:
+6
+Expected output:
+TESTING BOOKSTORE COPY-CONSTRUCTOR
+The Book Cellar
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+The Book Cellar
+777551 - Object-oriented programming academic 2300
+777552 - Discrete Mathematics academic 1800
+777553 - Crime and punishment roman 950
+TEST PASSED
+
+Test case 8:
+Input:
+7
+Expected output:
+TESTING BOOKSTORE greaterThan
+TEST PASSED
+
+Test case 9:
+Input:
+8
+3
+The Book Cellar
+3
+Object-oriented_code 0 2300
+Discrete_Mathematics 0 1800
+Crime_and_punishment 1 950
+Word Wizardry Book
+2
+Anna_Karenina 1 1200
+Calculus_1 0 1320
+The Literary Lounge
+1
+Looking_for_Alaska 0 500
+
+Expected output:
+TESTING METHOD createMarketPrice()
+The Book Cellar
+777551 - Object-oriented_code academic 2300
+777552 - Discrete_Mathematics academic 1800
+777553 - Crime_and_punishment roman 950
+CREATED MARKET PRICES
+The Book Cellar
+777551 - Object-oriented_code academic 2415
+777552 - Discrete_Mathematics academic 1890
+777553 - Crime_and_punishment roman 978.5
+Word Wizardry Book
+777554 - Anna_Karenina roman 1200
+777555 - Calculus_1 academic 1320
+CREATED MARKET PRICES
+Word Wizardry Book
+777554 - Anna_Karenina roman 1236
+777555 - Calculus_1 academic 1386
+The Literary Lounge
+777556 - Looking_for_Alaska academic 500
+CREATED MARKET PRICES
+The Literary Lounge
+777556 - Looking_for_Alaska academic 525
+
+Test case 10:
+Input:
+9
+3
+The Book Cellar
+3
+Object-oriented_code 0 2300
+Discrete_Mathematics 0 1800
+Crime_and_punishment 1 950
+Word Wizardry Book
+2
+Anna_Karenina 1 1200
+Calculus_1 0 1320
+The Literary Lounge
+1
+Looking_for_Alaska 0 500
+
+Expected output:
+TESTING METHOD best()
+The Book Cellar
+777551 - Object-oriented_code academic 2300
+777552 - Discrete_Mathematics academic 1800
+777553 - Crime_and_punishment roman 950

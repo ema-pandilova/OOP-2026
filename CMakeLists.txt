@@ -26,4 +26,4 @@ add_executable(zad63 aud6/zad3.cpp)
 add_executable(zad64 aud6/zad4.cpp)
 add_executable(zad65 aud6/zad5.cpp)
 add_executable(zad66 aud6/zad6.cpp)
-
+add_executable(zad67 aud6/zad7.cpp)
