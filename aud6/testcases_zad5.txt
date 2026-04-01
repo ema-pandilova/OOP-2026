@@ -1,0 +1,148 @@
+
+Test case 1:
+Input:
+10
+08 02 2014
+070215655
+070300800
+Hey! Just a quick reminder about our meeting tomorrow at 2 PM. See you there!
+04 06 2019
+070214644
+070880599
+Special offer: 20% off all items this weekend! Use code SAVE20 at checkout.
+16 01 2020
+070214011
+071222333
+Don’t forget to pick up groceries on your way home. Milk, eggs, and bread!
+03 12 2018
+072201899
+075444765
+Happy birthday! Wishing you a fantastic year ahead filled with joy and success.
+27 01 2021
+078308428
+070365567
+Emergency alert: Heavy rain expected tonight. Stay indoors and be safe!
+19 07 2020
+079207079
+079599699
+Your package is out for delivery. Estimated arrival time: 3-5 PM.
+27 03 2019
+070214011
+070485011
+Need a caffeine boost? Coffee shop on Main Street has a new latte flavor!
+14 07 2018
+070214987
+076230808
+Reminder: Parent-teacher conference tomorrow at 4:30 PM. Room 203.
+05 11 2016
+070214011
+077444765
+Congrats! You’ve won a $50 gift card. Visit our store to claim it.
+15 11 2017
+070345567
+077333444
+New job opportunity! Check out the listing at ourwebsite.com.
+
+Expected output:
+16/01/2020 070214011 071222333 Don’t forget to pick up groceries on your way home. Milk, eggs, and bread!
+27/03/2019 070214011 070485011 Need a caffeine boost? Coffee shop on Main Street has a new latte flavor!
+149 characters
+
+Test case 2:
+Input:
+10
+08 11 2015
+070214011
+077345789
+Running late! Traffic is crazy. Will be there in 10 minutes.
+08 11 2018
+072230807
+078321432
+Spring sale: Dresses, skirts, and tops up to 50% off!
+01 08 2019
+070214011
+070485011
+Reminder: Pay rent by the 10th to avoid late fees.
+08 04 2015
+071230230
+075455055
+Happy anniversary! Cheers to many more years together.
+20 04 2019
+070214011
+070214011
+Emergency contact: In case of emergency, call 911.
+10 11 2018
+075443026
+078435346
+Your flight is confirmed. Departure at 3:30 PM.
+19 09 2016
+076215555
+078308428
+Don’t forget sunscreen! UV index is high today.
+24 08 2015
+070880599
+070221094
+New voicemail received. Dial *123 to listen.
+11 06 2018
+075777888
+075444555
+Congrats on your promotion! Celebrate tonight!
+27 07 2019
+070214011
+078308428
+Lost & found: Blue umbrella left at the cafe.
+
+Expected output:
+01/08/2019 070214011 070485011 Reminder: Pay rent by the 10th to avoid late fees.
+20/04/2019 070214011 070214011 Emergency contact: In case of emergency, call 911.
+27/07/2019 070214011 078308428 Lost & found: Blue umbrella left at the cafe.
+145 characters
+
+Test case 3:
+Input:
+10
+05 08 2019
+070214011
+077234987
+Need a laugh? Check out this hilarious meme: [link]
+17 09 2020
+070214011
+078308428
+Appointment reminder: Dentist at 2 PM tomorrow.
+29 05 2021
+070214011
+078444765
+Battery low! Charge your phone ASAP.
+13 08 2019
+070321080
+070485011
+Pizza night! Order now for delivery.
+16 08 2018
+078987777
+070303374
+Weather update: Thunderstorms expected this evening.
+14 02 2020
+070303374
+070338188
+Important document attached. Please review.
+05 08 2015
+071214644
+071389644
+Feeling stressed? Take a deep breath and relax.
+24 10 2021
+070221094
+070880599
+Your prescription is ready for pickup.
+28 07 2017
+070300700
+075345678
+Happy Friday! Weekend plans: Movie night?
+02 08 2017
+071789333
+072219020
+Emergency alert: Earthquake drill at 11 AM.
+
+Expected output:
+05/08/2019 070214011 077234987 Need a laugh? Check out this hilarious meme: [link]
+17/09/2020 070214011 078308428 Appointment reminder: Dentist at 2 PM tomorrow.
+98 characters

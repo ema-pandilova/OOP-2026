@@ -6,11 +6,6 @@
 #include <cctype>
 using namespace std;
 
-#include <iostream>
-#include <cstring>
-#include <cctype>
-using namespace std;
-
 
 class Array {
     int size;
@@ -109,6 +104,17 @@ public:
             }
             return true;
         }
+    }
+
+    Array operator + (const Array &other){
+        Array result (this->capacity+other.capacity);
+        for(int i = 0; i < this->size; i++) {
+            result+=array[i];
+        }
+        for(int i = 0; i < other.size; i++) {
+            result+=other.array[i];
+        }
+        return result;
     }
 };
 
