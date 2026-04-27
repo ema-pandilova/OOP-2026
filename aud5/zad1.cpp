@@ -1,6 +1,6 @@
-//
-// Created by ema on 27.3.26.
-//
+// //
+// // Created by ema on 27.3.26.
+// //
 #include <iostream>
 #include <cstring>
 #include <cctype>
