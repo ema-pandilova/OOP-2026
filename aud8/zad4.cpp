@@ -167,7 +167,7 @@ public:
     }
 
     double rating() const {
-        return (10 - averageLevel() * (double(n) / capacity) * coeficient;
+        return (10 - averageLevel() * (double(n) / capacity) * coeficient);
     }
 
     friend ostream &operator<<(ostream &os, const PrivateGroup &g) {

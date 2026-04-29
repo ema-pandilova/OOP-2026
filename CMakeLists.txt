@@ -30,9 +30,12 @@ add_executable(zad67 aud6/zad7.cpp)
 
 add_executable(zad71 aud7/zad1.cpp)
 add_executable(zad72 aud7/zad2.cpp)
-add_executable(zad73 aud7/zad3.cpp)
 
 add_executable(zad81 aud8/zad1.cpp)
 add_executable(zad82 aud8/zad2.cpp)
 add_executable(zad83 aud8/zad3.cpp)
 add_executable(zad84 aud8/zad4.cpp)
+
+add_executable(zad91 aud9/zad1.cpp)
+add_executable(zad92 aud9/zad2.cpp)
+add_executable(zad93 aud9/zad3.cpp)
