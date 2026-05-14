@@ -2,8 +2,6 @@
 // Created by ema on 11.5.26.
 //
 #include <iostream>
-#include <cstring>
-#include <cctype>
 #include <fstream>
 using namespace std;
 
